@@ -12,5 +12,5 @@
 	}
   
 	dependencies {
-	        implementation 'com.github.renhuan2015:ChooseImageLibary:Tag'
+	        implementation 'com.github.renhuan2015:ChooseImageLibary:1.0'
 	}
