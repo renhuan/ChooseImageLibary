@@ -12,7 +12,7 @@
 	}
   
 	dependencies {
-	        implementation 'com.github.renhuan2015:ChooseImageLibary:1.0'
+	        implementation 'com.github.renhuan2015:ChooseImageLibary:2.0'
 	}
 
 用到的第三方库有
