@@ -1,7 +1,7 @@
 # ChooseImageLibary
 图片选择库
 
-![例如](http://browser9.qhimg.com/bdm/960_593_0/t01bbd94b90e850d1d3.jpg)
+![例如](https://github.com/renhuan2015/ChooseImageLibary/blob/master/app/img/a.jpg)
 
 
 	allprojects {
